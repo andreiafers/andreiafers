@@ -1,7 +1,7 @@
 - 👋 Hi, I'm @andreiafers
 - 👀 I'm interested in delving into the programming area
-- 🌱 I'm learning programming language, specifically python
-- 📫 Talk to me at andreiaferreiralearning@gmail.com
+- 🌱 I'm learning programming language, specifically javascript
+- 📫 Talk to me at andreiaferreiradev@gmail.com
 
 I'm still a beginner, so any help is welcome and I'm sorry for anything. 
 
